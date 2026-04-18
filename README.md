@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 8 records |
 | Free sample size | 1 records (12.5%) |
-| Last export | 2026-04-07T16:31:51.206374+00:00 |
+| Last export | 2026-04-14T22:21:02.868271+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-miami-fort-lauderdale-west-palm-beach-metro-florida-us-sample-737213/releases/download/sample-latest/beamstation_737213_food_and_drink-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample

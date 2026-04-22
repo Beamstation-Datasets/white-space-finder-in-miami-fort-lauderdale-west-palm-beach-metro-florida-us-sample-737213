@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Miami-Fort Lauderdale-West Palm Beach, FL that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Miami-Fort Lauderdale-West Palm Beach (Metro), Florida, US",
-  "export_job_id": "5c01cb14-9476-415d-94c9-f1040dcd5b95",
+  "export_job_id": "5cfd94c3-583d-4a74-b498-4c9ad163cea3",
   "github_org": "Beamstation-Datasets",
   "id_short": 737213,
   "location_name": "Miami-Fort Lauderdale-West Palm Beach, FL",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-miami-fort-lauderdale-west-palm-beach-metro-florida-us-sample-737213",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/737213/beamstation_737213_food_and_drink-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
-  "sample_pct": 12.5,
+  "sample_pct": 14.29,
   "sample_records": 1,
-  "sample_sha256": "fd773057b53391c456d46375f613fe7bbce9aa31e6abf7487970b73eda1504cf",
-  "sample_size_bytes": 19606,
-  "total_records": 8,
-  "updated_at": "2026-04-14T22:21:02.868271+00:00"
+  "sample_sha256": "9c512ade9e6f957dac7a1b8dc0a5fc5a275770dd5d38c72372cdf74f5f4bf067",
+  "sample_size_bytes": 19595,
+  "total_records": 7,
+  "updated_at": "2026-04-22T01:15:41.198147+00:00"
 }

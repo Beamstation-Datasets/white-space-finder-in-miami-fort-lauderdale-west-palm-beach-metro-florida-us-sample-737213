@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5cfd94c3-583d-4a74-b498-4c9ad163cea3",
+  "export_job_id": "d831846c-f8e7-4357-846a-3e871f021d6d",
   "id_short": 737213,
-  "published_at": "2026-04-22T07:56:49Z",
+  "published_at": "2026-04-29T07:58:53Z",
   "repo_name": "white-space-finder-in-miami-fort-lauderdale-west-palm-beach-metro-florida-us-sample-737213",
   "sample_asset_name": "beamstation_737213_food_and_drink-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/737213/beamstation_737213_food_and_drink-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "9c512ade9e6f957dac7a1b8dc0a5fc5a275770dd5d38c72372cdf74f5f4bf067",
-  "sample_size_bytes": 19595,
-  "total_records": 7
+  "sample_sha256": "2a0b94c13c45d4c581441cce79dda70aade93f76db62b679d044993ae78c1bd5",
+  "sample_size_bytes": 20578,
+  "total_records": 9
 }

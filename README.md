@@ -9,9 +9,9 @@
 | Dataset ID | `737213` |
 | Location | Miami-Fort Lauderdale-West Palm Beach, FL |
 | Category | Restaurants |
-| Full dataset size | 7 records |
-| Free sample size | 1 records (14.29%) |
-| Last export | 2026-04-22T01:15:41.198147+00:00 |
+| Full dataset size | 9 records |
+| Free sample size | 1 records (11.11%) |
+| Last export | 2026-04-29T04:21:41.703457+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-miami-fort-lauderdale-west-palm-beach-metro-florida-us-sample-737213/releases/download/sample-latest/beamstation_737213_food_and_drink-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
